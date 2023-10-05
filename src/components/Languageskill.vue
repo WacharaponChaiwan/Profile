@@ -8,17 +8,17 @@
     <div>
       <div style="display: flex; justify-content: center; gap: 20px" class="con-1">
         <div style="display: flex; align-items: center; justify-content: center;">
-          <img src="../assets/logo skills/HTML.png" alt="" />
+          <img src="../assets/logoskills/HTML.png" alt="" />
           <div>HTML</div>
         </div>
 
         <div style="display: flex; align-items: center; justify-content: center;">
-          <img src="../assets/logo skills/css.png" alt="" />
+          <img src="../assets/logoskills/css.png" alt="" />
           <div>CSS</div>
         </div>
 
         <div style="display: flex; align-items: center; justify-content: center;">
-          <img src="../assets/logo skills/js.png" alt="" />
+          <img src="../assets/logoskills/js.png" alt="" />
           <div>Js</div>
         </div>
       </div>
@@ -26,24 +26,24 @@
         <div style="display: flex; justify-content: center; gap: 20px" class="con-1">
           <div style="display: flex; align-items: center; justify-content: center;">
             <img
-              src="../assets/logo skills/c-sharp-c-icon-1822x2048-wuf3ijab.png"
+              src="../assets/logoskills/C.png"
               alt=""
             />
             <div>C#</div>
           </div>
           <div style="display: flex; align-items: center; justify-content: center;">
-            <img src="../assets/logo skills/java.png" alt="" />
+            <img src="../assets/logoskills/java.png" alt="" />
             <div>Java</div>
           </div>
           <div style="display: flex; align-items: center; justify-content: center;">
-            <img src="../assets/logo skills/sql.png" alt="" />
+            <img src="../assets/logoskills/sql.png" alt="" />
             <div>Sql</div>
           </div>
         </div>
       </div>
       <div style=" display: flex; justify-content: center" class="con-1" >
       <div style="display: flex; align-items: center; justify-content: center;">
-        <img src="../assets/logo skills/267_Python-512.webp" alt="" />
+        <img src="../assets/logoskills/Python.png" alt="" />
         <div>Python</div>
       </div>
       </div>
