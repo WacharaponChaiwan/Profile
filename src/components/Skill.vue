@@ -9,21 +9,21 @@
           <div style="align-items: center;">
               <div class="row" style="align-items: center gap: 20px ">
                 <img style="margin: 0 0 10px 0;"
-                  src="../assets/logo skills/Word.png"
+                  src="../assets/logoskills/Word.png"
                   alt=""
                 />
                 <div style="margin: 5px 0 0 0;">Microsoft word</div>
             </div>
             <div class="row" style="align-items: center gap: 20px">
               <img style="margin: 0 0 10px 0;"
-                src="../assets/logo skills/Powerpoint.png"
+                src="../assets/logoskills/Powerpoint.png"
                 alt=""
               />
               <div style="margin: 5px 0 0 0;" >Microsoft Powerpoint</div>
             </div>
             <div class="row" style="align-items: center gap: 20px">
               <img style="margin: 0 0 10px 0;"
-                src="../assets/logo skills/Excel.png"
+                src="../assets/logoskills/Excel.png"
                 alt=""
               />
               <div style="margin: 5px 0 0 0;">Microsoft Excel</div>
@@ -33,7 +33,7 @@
       </div>
     </div>
     <div style="margin: 30px 0 0 0;">
-        <img src="../assets/logo skills/mic.png" alt="" width="150px">
+        <img src="../assets/logoskills/mic.png" alt="" width="150px">
     </div>
   </div>
 </template>
