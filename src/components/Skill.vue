@@ -9,21 +9,21 @@
           <div style="align-items: center;">
               <div class="row" style="align-items: center gap: 20px ">
                 <img style="margin: 0 0 10px 0;"
-                  src="../assets/logo skills/microsoft_word_macos_bigsur_icon_189948.png"
+                  src="../assets/logo skills/Word.png"
                   alt=""
                 />
                 <div style="margin: 5px 0 0 0;">Microsoft word</div>
             </div>
             <div class="row" style="align-items: center gap: 20px">
               <img style="margin: 0 0 10px 0;"
-                src="../assets/logo skills/Microsoft_Office_PowerPoint_(2019–present).svg.png"
+                src="../assets/logo skills/Powerpoint.png"
                 alt=""
               />
               <div style="margin: 5px 0 0 0;" >Microsoft Powerpoint</div>
             </div>
             <div class="row" style="align-items: center gap: 20px">
               <img style="margin: 0 0 10px 0;"
-                src="../assets/logo skills/Microsoft_Office_Excel_(2019–present).svg.png"
+                src="../assets/logo skills/Excel.png"
                 alt=""
               />
               <div style="margin: 5px 0 0 0;">Microsoft Excel</div>
